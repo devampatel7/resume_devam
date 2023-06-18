@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/background2.jpg');
+    background-size: auto; /* Adjust the background image size to fit within the div */
+  background-repeat: no-repeat; /* Prevent the background image from repeating */
+  background-position: center center; 
+  }
+  
+  .pdf-container {
+    width: 60%;
+    margin: 0 auto;
+    height: 100vh;
+    background-color: aqua;
+    
+    
+   
+  }
+  
+  .pdf-content {
+    width: 100%;
+    height: 100%;
+  }
